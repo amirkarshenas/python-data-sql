@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/python-data-sql/env/Scripts/python.exe"
+}

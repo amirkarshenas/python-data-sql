@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run Application",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/python-data-sql/python_data_sql.py",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}/python-data-sql/env/Scripts/python.exe"
+        }
+    ]
+}
