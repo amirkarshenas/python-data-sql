@@ -1,0 +1,20 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code history
+.history/
+
+# IDE settings (optional - remove if you want to share settings)
+.vscode/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/

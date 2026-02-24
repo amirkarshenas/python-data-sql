@@ -1,0 +1,7 @@
+# --- Core DB connectivity ---
+pyodbc==5.1.0
+SQLAlchemy==2.0.30
+
+# --- Convenience / safety ---
+python-dotenv==1.0.1
+pandas==2.2.2
